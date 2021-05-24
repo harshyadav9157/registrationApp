@@ -1,0 +1,15 @@
+//
+//  College+CoreDataClass.swift
+//  registrationApp
+//
+//  Created by harsh yadav on 23/05/21.
+//
+//
+
+import Foundation
+import CoreData
+
+@objc(College)
+public class College: NSManagedObject {
+
+}
